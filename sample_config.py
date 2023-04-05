@@ -2,11 +2,11 @@ import os
 
 class Config:
 
-    BOT_TOKEN=os.environ['BOT_TOKEN']
+    BOT_TOKEN=os.environ['6139871154:AAFnYgWu80lHB_JhwU8I_-frvNL5nH0fQWM']
 
-    API_HASH=os.environ['API_HASH']
+    API_HASH=os.environ['d0c75e0e8ae1f79ddad10a033411f9ed']
 
-    API_ID=int(os.environ['API_ID'])
+    API_ID=int(os.environ['21124451'])
 
     
 
